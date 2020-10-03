@@ -1,0 +1,6 @@
+[submodule "docs/book/src/submodules/metal3-website"]
+	path = docs/book/src/submodules/metal3-website
+	url = git@github.com:fmuyassarov/metal3-website.git
+[submodule "docs/book/src/submodules/metal3-book"]
+	path = docs/book/src/submodules/metal3-book
+	url = git@github.com:fmuyassarov/metal3-book.git
